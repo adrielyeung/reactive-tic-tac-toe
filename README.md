@@ -1,3 +1,6 @@
+# tic-tac-toe
+A React.JS application of tic-tac-toe game. Testing out React.JS functionalities, components, props, and state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
